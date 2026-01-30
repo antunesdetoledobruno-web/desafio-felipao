@@ -19,5 +19,24 @@ if (xp >= 1000 && xp < 2000)
   console.log("Bronze")
 if (xp >= 2000 && xp < 5000)
   console.log("Prata")
+if (XP >= 5000 && XP< 7000)
+  console.log("ouro")
+if (XP >= 7000 && XP< 8000)
+  console.log ("platina")
+if (XP >= 8000 && XP< 9000)
+  console.log("ascendente")
+if (XP >= 9000 && XP< 10000)
+   console.log("imortal")
+  if (XP >= 10000)
+  console.log ("radiante")
+
+
+
+
+
+
+
+
+
 
 //TODO: Terminar as condições
